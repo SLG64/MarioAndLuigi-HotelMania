@@ -47,4 +47,4 @@ Lots-a thanks!
   SLG64
   
   
-If anyone would like to participate, please contact me in the "Participation" issue or email me at matthewmonahan703@gmail.com.
+If anyone would like to participate, please contact me in the "Participation" issue.
