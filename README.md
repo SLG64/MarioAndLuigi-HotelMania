@@ -1,3 +1,7 @@
+# NOTICE:
+## This project has been moved to https://github.com/Frakif91/Mario-Luigi
+
+
 # Mario & Luigi: Hotel Mania
 This game is an online multiplayer game and also has sidelong missions that you can complete alongside your friends. As this game is a Mario Fangame, there will be assets not included from the original game. This game includes:
 
@@ -7,8 +11,6 @@ This game is an online multiplayer game and also has sidelong missions that you 
 
 -Mini Games
 
--Voice Chat (It may be added later...)
-
 -Private Servers
 
 -Accounts
@@ -16,8 +18,6 @@ This game is an online multiplayer game and also has sidelong missions that you 
 -Friends Lists
 
 -Lobby Lists
-
--Accounts
 
 -Wardrobe
 
@@ -30,8 +30,6 @@ This game is an online multiplayer game and also has sidelong missions that you 
 -Trading System
 
 -Name Tags
-
--Fast Travel Menu
 
 -Power ups
 
